@@ -24,4 +24,4 @@ cd client
 go run client.go
 ```
 
-Client connects to server on 127.0.0.1:8000.
+Client connects to server on `127.0.0.1:8000`.
