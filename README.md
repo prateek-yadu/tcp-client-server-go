@@ -2,10 +2,10 @@
 
 ```
 tcp-client-server-go/
-├── server/
-│ └── server.go # TCP server code
 ├── client/
 │ └── client.go # TCP client code
+├── server/
+│ └── server.go # TCP server code
 ├── go.mod # Go module file
 └── README.md
 ```
