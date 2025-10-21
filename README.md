@@ -1,7 +1,7 @@
 ## Project Structure
 
 ```
-go-tcp-chat/
+tcp-client-server-go/
 ├── server/
 │ └── server.go # TCP server code
 ├── client/
